@@ -1,4 +1,4 @@
-# MBTI
+# MBTI Test Classification
 Text mining project: MBTI type classification using their posts.
 
 ## Data
